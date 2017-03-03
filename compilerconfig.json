@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "index.es5.js",
+    "inputFile": "index.js"
+  },
+  {
+    "outputFile": "index.css",
+    "inputFile": "index.scss"
+  }
+]
